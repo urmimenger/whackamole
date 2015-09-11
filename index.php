@@ -52,10 +52,10 @@
                             </thead>
                             <tbody>
                                 <?php                                     
-                                    $servername = "localhost";
-                                    $username = "root";
-                                    $password = "";
-                                    $dbname = "game_data";
+                                    $servername = "ec2-50-19-208-138.compute-1.amazonaws.com";
+                                    $username = "kielmkokdoafzy";
+                                    $password = "V6uMryDIWFyyPucIvivncsZHx1";
+                                    $dbname = "dae5dditjr5ivu";
 
                                     // Create connection
                                     $conn = new mysqli($servername, $username, $password, $dbname);
