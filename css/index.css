@@ -1,0 +1,12 @@
+#game_holder 
+.mole{
+    height: 225px;
+    width: 225px;
+    background-image: url(../images/mole.png.jpg);
+    float: left;
+}
+
+
+.active-mole{
+    background-image: url("../images/blood_red_trend_color_customized_template_blank_tile-r5ede72dcc8b445119080f642fceb883f_agtbm_8byvr_512.jpg");
+}
